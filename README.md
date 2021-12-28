@@ -20,5 +20,5 @@ The focus of this tutorial is how to use custom overlays in which the developer 
 
 ## Tutorial
 
-This code is accompanied by a tutorial that will further explain steps, which is available at: TBA
+This code is accompanied by a tutorial that will further explain steps, which is available at: [Developing a Youtube Overlay for Live Streams](https://medium.com/bingewave/developing-a-youtube-overlay-for-live-streams-ed06afc0aea1)
 
